@@ -1,0 +1,141 @@
+html {
+    background: linear-gradient(white, grey);
+    scroll-behavior: smooth;
+}
+
+
+.header {
+    text-align: center;
+    font-size: 60px;
+}
+
+
+.first-card {
+    background-color: antiquewhite;
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 40px;
+    font-family: arial;
+    margin-right: 20px;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+}
+
+.first-card:hover {
+    background-color: bisque;
+    width: 260px;
+    height: 110px;
+}
+
+.second-card {
+    background-color: antiquewhite;
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 40px;
+    font-family: arial;
+    margin-right: 20px;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+}
+
+.second-card:hover {
+    background-color: bisque;
+    width: 260px;
+    height: 110px;
+}
+
+.third-card {
+    background-color: antiquewhite;
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 40px;
+    font-family: arial;
+    margin-right: 20px;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+}
+
+.third-card:hover {
+    background-color: bisque;
+    width: 260px;
+    height: 110px;
+}
+
+.fourth-card {
+    background-color: antiquewhite;
+    display: inline-block;
+    height: 100px;
+    width: 250px;
+    margin-bottom: 50px;
+    text-align: center;
+    border-radius: 30px;
+    font-size: 40px;
+    font-family: arial;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: 200ms ease-in-out;
+}
+
+.fourth-card:hover {
+    background-color: bisque;
+    width: 260px;
+    height: 110px;
+}
+
+.intro {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    color: rgb(74, 30, 42);
+}
+.edu {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    color: rgb(74, 30, 42);
+}
+
+.projects {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 100px;
+    color: rgb(74, 30, 42);
+}
+
+.info {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px;
+    color: rgb(74, 30, 42);
+}
+
+.progress {
+    display: block;
+    width: 1000px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    border: 10px;
+    box-sizing: border-box;
+    background-color: black;
+}
